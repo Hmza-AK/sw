@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'roboto mono';
+    /* background: linear-gradient(#ca6d6d,rgb(158, 168, 68)); */
+    background: linear-gradient(#be09af,rgb(236, 143, 208));
+}
+.zero{
+    font-size: 100px;
+    line-height: 100px;
+     margin: 15px;
+     width: 120px;
+   
+}
+table{
+    margin: 120px auto;
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 100px;
+    color: black;
+}
+td>button{
+    width: 100px;
+    padding: 10px;
+    /* border: 1px solid #fff; */
+    background-color: rgba(0, 0, 0, 0.192);
+    color: rgb(36, 12, 12);
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 2px solid black;
+    margin: 30px;
+    text-align: center;
+    font-weight:bolder;
+    border: 10px double black;
+}
